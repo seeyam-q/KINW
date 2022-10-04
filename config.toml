@@ -21,7 +21,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "KINW Websit"
+description = "An animated VR social media simulation"
 email = "seeyamq@gmail.com"
 favicon = 'icons/KINW-Icon.png'
 # Dark mode support
