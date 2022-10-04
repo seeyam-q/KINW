@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/team/</loc>
+    <loc>/kinw/team/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/kinw/categories/</loc>
   </url><url>
-    <loc>/stories/</loc>
+    <loc>/kinw/stories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>/kinw/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/kinw/tags/</loc>
   </url>
 </urlset>

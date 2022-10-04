@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kristine Is Not Well</title>
-    <link>/</link>
+    <link>/kinw/</link>
     <description>Recent content on Kristine Is Not Well</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/kinw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/team/</link>
+      <link>/kinw/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/</guid>
+      <guid>/kinw/team/</guid>
       <description>Created by Seeyam Quine
 Art Direction Yujie Jiang
 Narrative Design Shuo Yan
@@ -24,10 +24,10 @@ Co-commissioned by IDFA DocLab</description>
     
     <item>
       <title>Inspired by True Stories</title>
-      <link>/stories/</link>
+      <link>/kinw/stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/stories/</guid>
+      <guid>/kinw/stories/</guid>
       <description>I&amp;rsquo;m a sea sponge who works as a fry cook at the Krusty Krab: The Krusty Krabe is a fast food restaurant known for it&amp;rsquo;s signature burger:
 The Krabby PattyTry to make one yourself and you will be as happy as I am. My first Krabby PattyYou can take a look at the recipe here.</description>
     </item>
