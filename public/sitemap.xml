@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seeyam-q.github.io/kinw/team/</loc>
+    <loc>/team/</loc>
   </url><url>
-    <loc>https://seeyam-q.github.io/kinw/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://seeyam-q.github.io/kinw/stories/</loc>
+    <loc>/stories/</loc>
   </url><url>
-    <loc>https://seeyam-q.github.io/kinw/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://seeyam-q.github.io/kinw/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
