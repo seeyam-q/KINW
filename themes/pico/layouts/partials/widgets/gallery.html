@@ -1,0 +1,20 @@
+<section id="gallery" class="mx-auto flex flex-wrap items-center">
+	<div class="text-center w-full">
+		<h1 class="my-0 text-4xl sm:text-5xl md:text-6xl">
+			{{ .Title }}
+		</h1>
+		{{ with .Params.subtitle}}
+		<h2 class="font-light mt-0">{{ . }}</h2>
+		{{ end }}
+	</div>
+	<div class="w-full grid grid-flow-row-dense grid-cols-2 gap-1">
+		{{ range .Params.gallery }}
+		<div class="mt-8">
+			{{ if .image }}
+			<img class="col-span-1" src="{{ .image | relURL }}" alt="{{ .name }} image">
+			<h2 class="font-light mt-0">{{ .name }}</h2>
+			{{ end }}
+		</div>
+		{{ end }}
+	</div>
+</section>

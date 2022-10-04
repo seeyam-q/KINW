@@ -1,0 +1,22 @@
+{
+	"name": "sponge-bob-pico",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Alexandre Negrel",
+	"license": "MIT",
+	"dependencies": {
+		"@fullhuman/postcss-purgecss": "^5.0.0",
+		"autoprefixer": "^10.4.12",
+		"postcss": "^8.4.17",
+		"postcss-cli": "^10.0.0",
+		"postcss-import": "^15.0.0",
+		"tailwindcss": "^3.1.8"
+	},
+	"devDependencies": {
+		"npm-check-updates": "^16.3.7"
+	}
+}
