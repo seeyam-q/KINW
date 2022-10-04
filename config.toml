@@ -34,7 +34,7 @@ favicon = 'icons/KINW-Icon.png'
 # Social parameters for contact_icons widget
 [[params.social]]
 alt = "email icon"
-icon = "/icons/email.svg"
+icon = "icons/email.svg"
 name = "email"
 url = "mailto:seeyamq@gmail.com"
 
@@ -62,7 +62,7 @@ url = "mailto:seeyamq@gmail.com"
 [[params.social]]
 alt = "twitter icon"
 blank = true
-icon = "/icons/twitter.svg"
+icon = "icons/twitter.svg"
 name = "twitter"
 url = "https://twitter.com/seeyamq"
 
