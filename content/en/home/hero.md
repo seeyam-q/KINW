@@ -20,10 +20,6 @@ hero_media = "img/KristineIsNotWell_Poster2.png"
 	primary = true
   target = "_self"
 
-# [[btn]]
-#   url = "#gallery"
-#   label = 'Screenshots'
-
 [[btn]]
   url = "https://seeyam.notion.site/Kristine-Is-Not-Well-Press-Kit-58f5f82be3224a05b6683bd9a3aa0d56"
   label = "Press Kit"
@@ -31,6 +27,5 @@ hero_media = "img/KristineIsNotWell_Poster2.png"
 
 +++
 
-# Memes vs. Digital Censorship
-Kristine Is Not Well is a 15-minute **animated VR social media simulation** visualizing the ongoing battle between creativity and algorithmic surveillance.
-
+# Memes vs. AI Censorship in metaverse inspired by real rebellion stories
+Kristine is Not Well is a 20-minute  **animated VR social media simulation** that highlights the resistance of online activists against algorithmic surveillance and censorship.
